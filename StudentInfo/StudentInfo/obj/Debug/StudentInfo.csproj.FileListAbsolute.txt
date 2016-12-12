@@ -1,0 +1,12 @@
+F:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+F:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\bin\StudentInfo.dll
+F:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+F:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+F:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+F:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+E:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+E:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\bin\StudentInfo.dll
+E:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+E:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+E:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+E:\College_notes\Adeel_SE\C_Sharp\Assignments\Student\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb

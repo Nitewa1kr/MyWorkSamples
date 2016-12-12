@@ -1,0 +1,4 @@
+﻿CREATE PROCEDURE [dbo].[auto_gen]
+AS BEGIN
+SELECT COUNT(STUDENT_NUM) FROM Student_Name
+END

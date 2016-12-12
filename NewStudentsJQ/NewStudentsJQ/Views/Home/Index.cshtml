@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>XML IN JQUERY</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function ()
+        {
+            $.getJSON("api/Students", function (data)
+            {
+                $.each(data, function (key, val) {
+                    var str = val.Name + " " + val.Course + " " + val.JoinDate;
+
+                    $('<li/>', { text: str }).appendTo($('#Students'));
+                });
+            });
+        });
+        
+        
+    </script>
+</head>
+<body>
+    <div>
+        <h1>Students</h1>
+        <ul id="Students" />
+    </div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\bin\DummyProj1.dll.config
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\bin\DummyProj1.dll
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\bin\DummyProj1.pdb
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\obj\Debug\DummyProj1.csprojResolveAssemblyReference.cache
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\obj\Debug\DummyProj1.dll
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\obj\Debug\DummyProj1.pdb
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\bin\DummyProj1.dll.config
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\bin\DummyProj1.dll
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\bin\DummyProj1.pdb
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\obj\Debug\DummyProj1.csprojResolveAssemblyReference.cache
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\obj\Debug\DummyProj1.dll
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1\DummyProj1\obj\Debug\DummyProj1.pdb
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1 - Copy\DummyProj1\obj\Debug\DummyProj1.csprojResolveAssemblyReference.cache
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1 - Copy\DummyProj1\obj\Debug\DummyProj1.dll
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1 - Copy\DummyProj1\bin\DummyProj1.dll.config
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1 - Copy\DummyProj1\bin\DummyProj1.dll
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1 - Copy\DummyProj1\bin\DummyProj1.pdb
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj1 - Copy\DummyProj1\obj\Debug\DummyProj1.pdb

@@ -1,0 +1,15 @@
+﻿#myNav  { 
+                background-color:#990000;
+                
+        }
+#navBrand, #navHome, #navSC, #navContact
+        {
+                color:#ffcccc;
+        }
+#copyright 
+        {
+                color:whitesmoke;
+        }
+#navHome{
+                background-color:#4d0000;
+         }

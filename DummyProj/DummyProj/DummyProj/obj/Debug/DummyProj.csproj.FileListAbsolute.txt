@@ -1,0 +1,12 @@
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\bin\DummyProj.dll.config
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\bin\DummyProj.dll
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\bin\DummyProj.pdb
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\obj\Debug\DummyProj.csprojResolveAssemblyReference.cache
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\obj\Debug\DummyProj.dll
+F:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\obj\Debug\DummyProj.pdb
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\bin\DummyProj.dll.config
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\bin\DummyProj.dll
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\bin\DummyProj.pdb
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\obj\Debug\DummyProj.csprojResolveAssemblyReference.cache
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\obj\Debug\DummyProj.dll
+E:\College_notes\Adeel_SE\C_Sharp\Projects\DummyProj\DummyProj\DummyProj\obj\Debug\DummyProj.pdb
